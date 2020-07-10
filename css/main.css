@@ -1,0 +1,40 @@
+#main_img {
+  float:left;
+  width:700px;
+}
+#button {
+  text-align: right;
+  margin-top: 330px;
+  margin-left: 50px;
+}
+h1 {
+  color: #EB8A29;
+
+
+}
+
+li {
+  list-style-type: none;
+}
+
+form {
+  text-align:center;
+  font-weight:bold;
+  color:#EB8A29;
+}
+table {
+  border: solid 1px #000000;
+  padding: 10px;
+  border-collapse: collapse;
+  width: 1000px;
+}
+th {
+  color: #EB8A29;
+}
+h2#title {
+  padding:0 0 5px 0;
+  border-bottom:solid 1px #ffffff;
+}
+h2#title span {
+  color:#F19725;
+}

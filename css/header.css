@@ -1,0 +1,40 @@
+/*상단헤더*/
+header {
+  height:100px;
+  position:relative;
+}
+header #logo {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+}
+
+header #main_menu {
+  width: 850px;
+  height:38px;
+  background-color:#000000;
+  position: absolute;
+  top: 40px;
+  left: 530px;
+}
+header #main_menu li {
+  display: inline-block;
+  margin: 12px 30px 0 50px;
+  font-size: 16px;
+}
+header #main_menu a:link {
+  text-decoration: none;
+  color: #ffffff;
+}
+header #main_menu a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+header #main_menu a:visited {
+  text-decoration: none;
+  color: #ffffff;
+}
+header #main_menu a:active {
+  text-decoration: none;
+  color: #ffffff;
+}
